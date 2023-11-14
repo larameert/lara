@@ -24,5 +24,10 @@ red
 blue
 yellow
 
-RGB
+RGB 0,1,2,3,...255
 
+0 = ausência
+
+255 = Máximo
+
+rgb(255,255,255)
